@@ -49,9 +49,9 @@ high-performance user interfaces with React and Tailwind CSS.
 | Project | Domain / Tech Stack | Highlights | Links |
 | :--- | :--- | :--- | :--- |
 | **🛍️ Retal Store** | **Laravel 12, Blade, Tailwind v4, MySQL** | Commercial Full-Stack E-Commerce platform with RBAC Admin Panel, inventory controls, and WhatsApp order routing. | [Repo](https://github.com/tmsaah770/Rital-Store) • [Live Demo](https://rital1store-001-site1.ftempurl.com) |
+| **🛒 TmsaaH-Shop** | **React, Vite, Backend API, Tailwind CSS** | Full-Stack E-Commerce platform featuring decoupled client-server architecture, dynamic catalog, and shopping workflows. | [Repo](https://github.com/tmsaah770/TmsaaH-Shop) |
 | **🌐 EHYAA (إحياء)** | **React, Laravel, MySQL, Tailwind CSS** | Graduation project: End-to-end web platform with decoupled SPA frontend and modular REST API backend. | [Repo](https://github.com/tmsaah770) • [Live Demo](https://ehyaa.site) |
 | **⏱️ TIMZEE** | **React, Vite, Tailwind CSS, GitHub Actions** | High-performance luxury watch e-commerce storefront with client-side state persistence and real-time filters. | [Repo](https://github.com/tmsaah770/TmsaaH) • [Live Demo](https://tmsaah770.github.io/TmsaaH) |
-
 ---
 
 ## 📬 Connect With Me
